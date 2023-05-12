@@ -1,0 +1,33 @@
+{
+	"bill": {
+		"name": "qwerqwer",
+		"id_num": "qwerqwer",
+		"bankname": "qwer",
+		"banknum": [
+			"student",
+			"sucker"
+		],
+		"account": "qewr",
+		"signature": "firebase domain",
+		"1agree": true,
+		"2agree": true
+	},
+	"asdf": {
+		"id": "asdfasdf",
+		"pw": "asdfasdf",
+		"name": "asdf",
+		"job": [
+			"qstudent",
+			"sucker"
+		]
+	},
+	"zxcv": {
+		"id": "zxcvzxcv",
+		"pw": "zcxvzxcv",
+		"name": "zxcv",
+		"job": [
+			"qstudwent",
+			"suckewr"
+		]
+	}
+}
