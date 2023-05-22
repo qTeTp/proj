@@ -6,8 +6,8 @@ void sss() {
   // Create a map to represent the input values
   Map<String, dynamic> jsonData = {
     'name': inputText1,
-    'id': inputText2,
-    'banknum': inputText3,
+    'id': inputText1,
+    'banknum': inputText1,
   };
 
   // Convert the map to a JSON string
